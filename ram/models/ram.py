@@ -268,6 +268,6 @@ def ram(pretrained='', **kwargs):
             model, msg = load_checkpoint_swinlarge(model, pretrained, kwargs)
         else:
             model, msg = load_checkpoint(model, pretrained)
-        print('vit:', kwargs['vit'])
-#         print('msg', msg)
+        # print('vit:', kwargs['vit'])
+        # print('msg', msg)
     return model
