@@ -1,3 +1,4 @@
+# Packaged version of Recognized Anything to be used in LabelMaker
 # <font size=8> :label: Recognize Anything & Tag2Text </font>
 
 [![Web Demo](https://img.shields.io/badge/🤗-HuggingFace%20Space-cyan.svg)](https://huggingface.co/spaces/xinyu1205/Recognize_Anything-Tag2Text)
